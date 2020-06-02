@@ -1,0 +1,2 @@
+# PROYECTO_FINAL_TECNOLOGIAS_EMERGENTES
+ El proyecto a entregar deberá cumplir con lo siguiente: Tener una interfaz web o gráfica.  Un Paciente llega e indica los síntomas que tiene, el ingreso de los datos será a través de un formulario.  El sistema experto debe reconocer que tipo de enfermedad puede tener el paciente, además debe indicar cuáles medicamentos debe tomar para su mejora,así como los especialistas que  le pueden tratar. Esto debe mostrarse una vez el paciente haya enviado sus datos.
